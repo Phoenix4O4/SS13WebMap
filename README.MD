@@ -1,6 +1,6 @@
 # SS13WebMap
 
-This is a web-map for SS13 based off of LeafletJS, with a backend made in ASP.Net
+This is a fork web-map for SS13 based off of LeafletJS, with a backend made in ASP.Net
 
 If you want to submit a map, please see [MAP_REQUESTING.MD](MAP_REQUESTING.MD)
 
